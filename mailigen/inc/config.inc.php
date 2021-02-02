@@ -1,5 +1,5 @@
 <?php
-    //API Key - see http://admin.mailigen.com/settings/api
+    //API Key - see https://admin.mailigen.com/settings/api
     $apikey = 'YOUR MAILIGEN APIKEY';
 
     // A List Id to run examples against. use lists() to view all
@@ -23,5 +23,5 @@
 	$smsMergeField = 'SMS';
 
     //just used in xml-rpc examples
-    $apiUrl = 'http://api.mailigen.com/1.8/';
+    $apiUrl = 'https://api.mailigen.com/1.8/';
 ?>
